@@ -1,0 +1,15 @@
+.tableContainer{
+    width: 50% !important;
+    float: left;
+    padding: 100px;
+}
+.formContainer{
+    padding: 100px;
+    width: 30%;
+    float: left;
+}
+div.error{
+    padding: 10px;
+    color: #c80400;
+}
+
